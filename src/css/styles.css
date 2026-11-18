@@ -66,9 +66,6 @@ body {
 
 }
 
-/* ================================
-SECCIÓN MAIN (HERO) & ABOUT
-================================ */
 .hero {
     padding: 60px 20px;
     display: grid;
@@ -128,9 +125,6 @@ SECCIÓN MAIN (HERO) & ABOUT
 }
 
 
-/* ================================
-   SECCIÓN ABOUT (FILOSOFÍA)
-   ================================ */
 .about {
     max-width: 1200px;
     margin: 60px auto 80px;
