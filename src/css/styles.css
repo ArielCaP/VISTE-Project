@@ -8,7 +8,7 @@
     --fuenteSecundaria: "Lato", sans-serif;
 }
 
-
+/* Navbar*/
 body {
     font-family: var(--fuentePrincipal);
     background-color: rgb(var(--color2));
